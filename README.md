@@ -6,7 +6,7 @@ O projeto foi criado para ajudar um amigo a organizar projetos de audiovisual, c
 
 Caso haja a necessidade de criar um .exe deste programa, é só rodar os seguintes comandos:  
 
-- Baixar Bibblioteca:
+- Baixar Biblioteca:
 
 ```terminal
 pip install pyinstaller
