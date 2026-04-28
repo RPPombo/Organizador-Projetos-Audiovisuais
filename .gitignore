@@ -1,1 +1,4 @@
 /.venv
+/build
+/dist
+Criador_de_projetos.spec
